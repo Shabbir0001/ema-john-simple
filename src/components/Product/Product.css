@@ -20,3 +20,14 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.img {
+    align-items: center;
+    /* justify-content: center; */
+    display: flex;
+    margin-right: 15px;
+}
+
+.img img {
+    border-radius: 10px;
+}
